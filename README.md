@@ -92,4 +92,4 @@ By identifying trends across departments, job roles, and demographics, we can su
 
 ## 🧠 Author
 *Manpreet Kaur*  
-Aspiring Data Analyst | Excel • SQL • Power BI | [GitHub](https://github.com/thethipreeti-code/Employee-Attrition-Analysis/edit/main/README.md) | [LinkedIn](https://www.linkedin.com/in/manpreet-kaur)
+Aspiring Data Analyst | Excel • SQL • Power BI | [GitHub](https://github.com/thethipreeti-code/Employee-Attrition-Analysis/edit/main/README.md) | [LinkedIn]((https://www.linkedin.com/in/manpreet-kaur-66a123371/)
