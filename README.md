@@ -43,8 +43,11 @@ By identifying trends across departments, job roles, and demographics, we can su
   - Female-Specific Insights
   - Male-Specific Insights
 
----
+<img width="1123" height="616" alt="image" src="https://github.com/user-attachments/assets/5e06084a-3a8d-4fff-b602-4d4c6451d29a" />
+<img width="1104" height="618" alt="image" src="https://github.com/user-attachments/assets/ab1c93f4-abb1-4e81-972b-b438e44d7c67" />
+<img width="1106" height="627" alt="image" src="https://github.com/user-attachments/assets/5afca5cd-6ecb-47cc-9934-2470d90e9740" />
 
+---
 ## 📌 Key Insights
 
 ### 🔺 Common Trends (Both Genders)
